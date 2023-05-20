@@ -1,5 +1,6 @@
 .cache
 raw/ENG-RU
 tools/ENG-RU.VOC
-data
+build
 dist
+oldAssets/data/ENG-RU
